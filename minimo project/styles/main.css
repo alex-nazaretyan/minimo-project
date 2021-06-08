@@ -1,0 +1,285 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css");
+.header-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 68px;
+  padding: 75px 0;
+}
+
+.header-items .minimo-logo p {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.header-items .ul-items ul {
+  display: flex;
+}
+
+.header-items .ul-items ul li {
+  padding: 0 50px;
+  color: #868686;
+}
+
+.main-background-pic {
+  max-width: 1350px;
+  margin: 0 auto;
+  background-image: url(../images/main-background-pic.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
+.photodairy {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.photodairy p:first-of-type {
+  padding-bottom: 28px;
+  color: #b4ad9e;
+  font-weight: lighter;
+}
+
+.photodairy h2 {
+  color: #626262;
+  font-size: 40px;
+  padding-bottom: 40px;
+}
+
+.photodairy p:last-of-type {
+  color: #626262;
+}
+
+.leave-comment {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 75px;
+}
+
+.leave-comment p:first-of-type {
+  color: #b4ad9e;
+  padding-bottom: 130px;
+}
+
+.life-style {
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.life-style .girl-pic {
+  background-image: url(../images/girl-pic.jpg);
+  background-size: cover;
+  background-position: bottom;
+  width: 550px;
+  height: 400px;
+}
+
+.life-style .coffe-pic {
+  background-image: url(../images/coffe-pic.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 550px;
+  height: 400px;
+}
+
+.life-style-content {
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.life-style-content div {
+  margin-top: 30px;
+}
+
+.life-style-content div p:first-of-type {
+  padding-bottom: 30px;
+  color: #b4ad9e;
+}
+
+.life-style-content div p:last-of-type {
+  padding-top: 40px;
+}
+
+.life-style-content div h2 {
+  color: #626262;
+}
+
+.life-style-content div:last-of-type {
+  margin-left: 42px;
+}
+
+.photodairy-style {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 135px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.photodairy-style .girl-pic {
+  background-image: url(../images/american-dream-pic.jpg);
+  background-size: cover;
+  background-position: bottom;
+  width: 550px;
+  height: 400px;
+}
+
+.photodairy-style .coffe-pic {
+  background-image: url(../images/alps-pic.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 550px;
+  height: 400px;
+}
+
+.photodairy-content {
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.photodairy-content div {
+  margin-top: 30px;
+}
+
+.photodairy-content div p:first-of-type {
+  padding-bottom: 30px;
+  color: #b4ad9e;
+}
+
+.photodairy-content div p:last-of-type {
+  padding-top: 40px;
+}
+
+.photodairy-content div h2 {
+  color: #626262;
+}
+
+.photodairy-content div:last-of-type {
+  margin-left: 42px;
+}
+
+.email-field {
+  background-color: #F0F0F0;
+  text-align: center;
+  margin-top: 125px;
+}
+
+.email-field h2 {
+  padding: 75px 0 85px 0;
+  font-size: 36px;
+}
+
+.email-field form .email {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  margin-bottom: 75px;
+  background-color: #F0F0F0;
+  width: 400px;
+  font-size: 15px;
+  cursor: text;
+}
+
+.email-field form i {
+  position: relative;
+  right: 25px;
+  font-size: 20px;
+}
+
+.photodairy-style {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 135px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.photodairy-style .girl-pic {
+  background-image: url(../images/girl-with-hat-pic.jpg);
+  background-size: cover;
+  background-position: bottom;
+  width: 550px;
+  height: 400px;
+}
+
+.photodairy-style .coffe-pic {
+  background-image: url(../images/road-pic.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 550px;
+  height: 400px;
+}
+
+.photodairy-content {
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.photodairy-content div {
+  margin-top: 30px;
+}
+
+.photodairy-content div p:first-of-type {
+  padding-bottom: 30px;
+  color: #b4ad9e;
+}
+
+.photodairy-content div p:last-of-type {
+  padding-top: 40px;
+}
+
+.photodairy-content div h2 {
+  color: #626262;
+}
+
+.photodairy-content div:last-of-type {
+  margin-left: 42px;
+}
+
+.load-more {
+  margin-top: 160px;
+  margin-bottom: 320px;
+  text-align: center;
+}
+
+.load-more button {
+  border: 1px solid #626262;
+  font-weight: lighter;
+  padding: 20px 30px;
+  background-color: white;
+  color: #626262;
+  font-size: 14px;
+}
+
+footer section {
+  background-color: #F0F0F0;
+  padding: 20px;
+  color: black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+footer section p span {
+  padding-left: 10px;
+}
+
+footer section ul {
+  display: flex;
+  align-items: center;
+}
+
+footer section ul li {
+  padding: 10px;
+  color: #626262;
+}
+
+footer section ul li:first-of-type {
+  color: black;
+}
